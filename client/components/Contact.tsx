@@ -56,7 +56,7 @@ export default function Contact() {
 
           {/* Contact Form */}
           <div className="bg-slate-900/30 border border-white/5 rounded-2xl p-8">
-            <form className="space-y-6">
+            <form className="space-y-6" netlify>
               <div>
                 <label htmlFor="name" className="block text-sm font-medium text-gray-400 mb-2">Name</label>
                 <input
