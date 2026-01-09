@@ -7,7 +7,7 @@ export default function Projects() {
       title: "PlaylistAI",
       description:
         "A full-stack playlist generation platform leveraging Google Gemini to create personalized music collections based on natural language prompts.",
-      image: "https://cdn.builder.io/api/v1/image/assets%2Fb28ead4654094ee8a40f228083810d8e%2Ffe08488b19df4a098c1279e06d6a2c73",
+      image: "https://cdn.builder.io/api/v1/image/assets%2Fb28ead4654094ee8a40f228083810d8e%2Fb5de93eaa2b1410c87d31861a0e61fd8",
       imageAlt: "PlaylistAI Interface",
       link: "https://github.com/praneels2005/Spotify_Project",
       linkText: "View Source",
