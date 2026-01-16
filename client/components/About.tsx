@@ -69,7 +69,7 @@ export default function About() {
                 <div className="flex items-center gap-3 mt-3 text-sm text-gray-500">
                   <span>2023 — 2027</span>
                   <span className="w-1 h-1 rounded-full bg-gray-700" />
-                  <span className="text-gray-300 font-medium">GPA: 3.9/4.0</span>
+                  <span className="text-gray-300 font-medium">GPA: 4.0/4.0</span>
                 </div>
               </div>
             </SignalCard>
